@@ -10,6 +10,31 @@ public class SwitchCase
         
         // jumping statement in java 1.switch case
         
+        
+        /*
+        
+        Syntax :-
+        
+            switch(value)
+            {
+                case value:
+                        System.out.println("data");
+                braek;
+                
+                 case value:
+                        System.out.println("data");
+                braek;
+                
+                default:
+                        System.out.println("data");
+                break;
+                
+                
+                
+            }
+        
+        */
+        
         switch (month)
          {
            
