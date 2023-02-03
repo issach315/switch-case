@@ -8,7 +8,7 @@ public class SwitchCase
         System.out.println("Enter month Number ");
         int month =sc.nextInt();
         
-
+        // jumping statement in java 1.switch case
         
         switch (month)
          {
