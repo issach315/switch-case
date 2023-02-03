@@ -31,6 +31,10 @@ public class SwitchCase
                 
                 
                 
+                
+                >>>>>it checks the value for matching and print
+                
+                
             }
         
         */
@@ -59,6 +63,7 @@ public class SwitchCase
              break;
 
              case 6:
+         
                 System.out.println("JUN");
              break; 
              case 7:
